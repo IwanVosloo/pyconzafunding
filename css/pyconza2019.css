@@ -1,0 +1,13 @@
+
+html .bg-primary {
+    background-color: #191a24;
+    background-image: linear-gradient(to left, #840032, #191a24);
+}
+
+html .btn-primary {
+         margin: 0 0 2px 2px;
+         background-color: #ecb145;
+         border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+         color: #eee7e7;
+         text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+}
